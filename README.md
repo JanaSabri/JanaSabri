@@ -43,26 +43,16 @@ A cross-platform platform connecting students with internship and employment opp
 - Contributed to product planning, UI/UX design, and system architecture.
 - Focused on a scalable, user-centered experience for early-career opportunities.
 
-### Goals Management Application
+### SmartMatch AI
 
-Flutter | Firebase
+React.js | Figma | Frontend Development | UI/UX
 
-- Built real-time goal tracking with progress sliders, completion toggles, and categorization.
-- Applied structured UI design, state management, and dynamic data updates.
+A software development internship project focused on frontend interfaces for HR and System Administrator workflows.
 
-### Java Movie Recommendation System
-
-Java | TF-IDF | Cosine Similarity
-
-- Built a content-based recommendation system from structured datasets.
-- Applied text processing and similarity analysis to generate personalized recommendations.
-
-### Hospitality Management System
-
-JavaFX | Object-Oriented Programming
-
-- Developed a multi-scene desktop application with authentication, reservation management, and dashboard navigation.
-- Designed consistent interfaces and handled user interactions across multiple screens.
+- Designed and implemented responsive dashboards, forms, tables, and navigation flows.
+- Built reusable interface components and refined the experience against the original Figma designs.
+- Tested responsiveness, usability, layout consistency, and navigation.
+- Prepared the frontend for backend integration and documented the completed work.
 
 ## Technical Stack
 
