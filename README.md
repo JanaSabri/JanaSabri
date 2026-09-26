@@ -2,7 +2,7 @@
 
 Computer Science graduate | Frontend and mobile developer | Flutter, React, Firebase, and UI/UX
 
-[LinkedIn](https://www.linkedin.com/in/jana-khassib) | [Email](mailto:janakhassib@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jana-khassib) | [Email](mailto:janakhassib@gmail.com) | [Portfolio](https://www.janakhassib.com)
 
 ~~~
 STATUS: Computer Science graduate
